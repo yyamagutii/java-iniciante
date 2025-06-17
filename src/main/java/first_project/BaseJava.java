@@ -2,7 +2,7 @@ package first_project;
 
 import java.util.Scanner;
 
-public class base_java {
+public class BaseJava {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
